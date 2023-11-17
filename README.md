@@ -79,6 +79,8 @@ This project was collaboratively developed by two micronauts.
   👤 **Surafel Samson**
 - GitHub: [@githubhandle](https://github.com/Surafels)
 - Twitter: [@twitterhandle](https://twitter.com/SurafelSamson2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/surafel-samson-4b2635267/)
+
 
 
 ## Future Features <a name="future-features"></a>
